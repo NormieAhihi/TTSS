@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+[Editors]
+Order=0
+Focused=0
+[Editor_0]
+CursorCol=87
+CursorRow=19
+TopLine=1
+LeftChar=1
+=======
+[Editors]
+Order=0
+Focused=0
+[Editor_0]
+CursorCol=5
+CursorRow=96
+TopLine=94
+LeftChar=1
+>>>>>>> e768a139c64a44f1880ec03a86c0bc36a23fd02f
